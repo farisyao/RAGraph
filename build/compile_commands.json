@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/yaof/geograph/datu/build",
+  "command": "/usr/bin/c++  -DHELIB_BOOT_THREADS -DHELIB_THREADS -I/home/yaof/geograph/datu/thirdparty -I/home/yaof/geograph/datu -isystem /usr/local/openmpi/include -isystem /usr/local/include -I/home/yaof/geograph/datu/examples/analytical_apps -isystem /home/yaof/helib_install/helib_pack/include   -std=c++17 -Wall -fopenmp  -Wl,-rpath,$ORIGIN -fcilkplus -lcilkrts -DCILK -O3 -DNDEBUG -O3 -g   -w -std=c++1z -o CMakeFiles/ingress.dir/examples/analytical_apps/flags.cc.o -c /home/yaof/geograph/datu/examples/analytical_apps/flags.cc",
+  "file": "/home/yaof/geograph/datu/examples/analytical_apps/flags.cc"
+},
+{
+  "directory": "/home/yaof/geograph/datu/build",
+  "command": "/usr/bin/c++  -DHELIB_BOOT_THREADS -DHELIB_THREADS -I/home/yaof/geograph/datu/thirdparty -I/home/yaof/geograph/datu -isystem /usr/local/openmpi/include -isystem /usr/local/include -I/home/yaof/geograph/datu/examples/analytical_apps -isystem /home/yaof/helib_install/helib_pack/include   -std=c++17 -Wall -fopenmp  -Wl,-rpath,$ORIGIN -fcilkplus -lcilkrts -DCILK -O3 -DNDEBUG -O3 -g   -w -std=c++1z -o CMakeFiles/ingress.dir/examples/analytical_apps/ingress.cc.o -c /home/yaof/geograph/datu/examples/analytical_apps/ingress.cc",
+  "file": "/home/yaof/geograph/datu/examples/analytical_apps/ingress.cc"
+},
+{
+  "directory": "/home/yaof/geograph/datu/build",
+  "command": "/usr/bin/c++  -Dgrape_lite_EXPORTS -I/home/yaof/geograph/datu/thirdparty -I/home/yaof/geograph/datu -isystem /usr/local/openmpi/include -isystem /usr/local/include   -std=c++17 -Wall -fopenmp  -Wl,-rpath,$ORIGIN -fcilkplus -lcilkrts -DCILK -O3 -DNDEBUG -O3 -g -fPIC   -w -std=c++1z -o CMakeFiles/grape-lite.dir/grape/io/local_io_adaptor.cc.o -c /home/yaof/geograph/datu/grape/io/local_io_adaptor.cc",
+  "file": "/home/yaof/geograph/datu/grape/io/local_io_adaptor.cc"
+},
+{
+  "directory": "/home/yaof/geograph/datu/build",
+  "command": "/usr/bin/c++   -I/home/yaof/geograph/datu/thirdparty -I/home/yaof/geograph/datu -isystem /usr/local/openmpi/include -isystem /usr/local/include -I/home/yaof/geograph/datu/examples/analytical_apps   -std=c++17 -Wall -fopenmp  -Wl,-rpath,$ORIGIN -fcilkplus -lcilkrts -DCILK -O3 -DNDEBUG -O3 -g   -w -std=c++1z -o CMakeFiles/tornado_pagerank.dir/examples/analytical_apps/flags.cc.o -c /home/yaof/geograph/datu/examples/analytical_apps/flags.cc",
+  "file": "/home/yaof/geograph/datu/examples/analytical_apps/flags.cc"
+},
+{
+  "directory": "/home/yaof/geograph/datu/build",
+  "command": "/usr/bin/c++   -I/home/yaof/geograph/datu/thirdparty -I/home/yaof/geograph/datu -isystem /usr/local/openmpi/include -isystem /usr/local/include -I/home/yaof/geograph/datu/examples/analytical_apps   -std=c++17 -Wall -fopenmp  -Wl,-rpath,$ORIGIN -fcilkplus -lcilkrts -DCILK -O3 -DNDEBUG -O3 -g   -w -std=c++1z -o CMakeFiles/tornado_pagerank.dir/examples/analytical_apps/tornado_pagerank.cc.o -c /home/yaof/geograph/datu/examples/analytical_apps/tornado_pagerank.cc",
+  "file": "/home/yaof/geograph/datu/examples/analytical_apps/tornado_pagerank.cc"
+},
+{
+  "directory": "/home/yaof/geograph/datu/build",
+  "command": "/usr/bin/c++   -I/home/yaof/geograph/datu/thirdparty -I/home/yaof/geograph/datu -isystem /usr/local/openmpi/include -isystem /usr/local/include -I/home/yaof/geograph/datu/examples/analytical_apps   -std=c++17 -Wall -fopenmp  -Wl,-rpath,$ORIGIN -fcilkplus -lcilkrts -DCILK -O3 -DNDEBUG -O3 -g   -w -std=c++1z -o CMakeFiles/tornado_php.dir/examples/analytical_apps/flags.cc.o -c /home/yaof/geograph/datu/examples/analytical_apps/flags.cc",
+  "file": "/home/yaof/geograph/datu/examples/analytical_apps/flags.cc"
+},
+{
+  "directory": "/home/yaof/geograph/datu/build",
+  "command": "/usr/bin/c++   -I/home/yaof/geograph/datu/thirdparty -I/home/yaof/geograph/datu -isystem /usr/local/openmpi/include -isystem /usr/local/include -I/home/yaof/geograph/datu/examples/analytical_apps   -std=c++17 -Wall -fopenmp  -Wl,-rpath,$ORIGIN -fcilkplus -lcilkrts -DCILK -O3 -DNDEBUG -O3 -g   -w -std=c++1z -o CMakeFiles/tornado_php.dir/examples/analytical_apps/tornado_php.cc.o -c /home/yaof/geograph/datu/examples/analytical_apps/tornado_php.cc",
+  "file": "/home/yaof/geograph/datu/examples/analytical_apps/tornado_php.cc"
+},
+{
+  "directory": "/home/yaof/geograph/datu/build",
+  "command": "/usr/bin/c++   -I/home/yaof/geograph/datu/thirdparty -I/home/yaof/geograph/datu -isystem /usr/local/openmpi/include -isystem /usr/local/include -I/home/yaof/geograph/datu/examples/analytical_apps   -std=c++17 -Wall -fopenmp  -Wl,-rpath,$ORIGIN -fcilkplus -lcilkrts -DCILK -O3 -DNDEBUG -O3 -g   -w -std=c++1z -o CMakeFiles/d2ud.dir/examples/analytical_apps/flags.cc.o -c /home/yaof/geograph/datu/examples/analytical_apps/flags.cc",
+  "file": "/home/yaof/geograph/datu/examples/analytical_apps/flags.cc"
+},
+{
+  "directory": "/home/yaof/geograph/datu/build",
+  "command": "/usr/bin/c++   -I/home/yaof/geograph/datu/thirdparty -I/home/yaof/geograph/datu -isystem /usr/local/openmpi/include -isystem /usr/local/include -I/home/yaof/geograph/datu/examples/analytical_apps   -std=c++17 -Wall -fopenmp  -Wl,-rpath,$ORIGIN -fcilkplus -lcilkrts -DCILK -O3 -DNDEBUG -O3 -g   -w -std=c++1z -o CMakeFiles/d2ud.dir/examples/analytical_apps/d2ud.cc.o -c /home/yaof/geograph/datu/examples/analytical_apps/d2ud.cc",
+  "file": "/home/yaof/geograph/datu/examples/analytical_apps/d2ud.cc"
+},
+{
+  "directory": "/home/yaof/geograph/datu/build",
+  "command": "/usr/bin/c++   -I/home/yaof/geograph/datu/thirdparty -I/home/yaof/geograph/datu -isystem /usr/local/openmpi/include -isystem /usr/local/include -I/home/yaof/geograph/datu/examples/analytical_apps   -std=c++17 -Wall -fopenmp  -Wl,-rpath,$ORIGIN -fcilkplus -lcilkrts -DCILK -O3 -DNDEBUG -O3 -g   -w -std=c++1z -o CMakeFiles/gen_updated.dir/examples/analytical_apps/flags.cc.o -c /home/yaof/geograph/datu/examples/analytical_apps/flags.cc",
+  "file": "/home/yaof/geograph/datu/examples/analytical_apps/flags.cc"
+},
+{
+  "directory": "/home/yaof/geograph/datu/build",
+  "command": "/usr/bin/c++   -I/home/yaof/geograph/datu/thirdparty -I/home/yaof/geograph/datu -isystem /usr/local/openmpi/include -isystem /usr/local/include -I/home/yaof/geograph/datu/examples/analytical_apps   -std=c++17 -Wall -fopenmp  -Wl,-rpath,$ORIGIN -fcilkplus -lcilkrts -DCILK -O3 -DNDEBUG -O3 -g   -w -std=c++1z -o CMakeFiles/gen_updated.dir/examples/analytical_apps/gen_updated.cc.o -c /home/yaof/geograph/datu/examples/analytical_apps/gen_updated.cc",
+  "file": "/home/yaof/geograph/datu/examples/analytical_apps/gen_updated.cc"
+}
+]

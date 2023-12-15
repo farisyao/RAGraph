@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -std=c++17 -Wall -fopenmp  -Wl,-rpath,$ORIGIN -fcilkplus -lcilkrts -DCILK -O3 -DNDEBUG -O3 -g  -shared -Wl,-soname,libgrape-lite.so -o libgrape-lite.so CMakeFiles/grape-lite.dir/grape/io/local_io_adaptor.cc.o -Wl,-rpath,/usr/local/openmpi/lib:/usr/local/lib /usr/local/openmpi/lib/libmpi.so -lpthread /usr/local/lib/libglog.so 

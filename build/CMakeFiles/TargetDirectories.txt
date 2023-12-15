@@ -1,0 +1,11 @@
+/home/yaof/geograph/datu/build/CMakeFiles/rebuild_cache.dir
+/home/yaof/geograph/datu/build/CMakeFiles/doc.dir
+/home/yaof/geograph/datu/build/CMakeFiles/clformat.dir
+/home/yaof/geograph/datu/build/CMakeFiles/ingress.dir
+/home/yaof/geograph/datu/build/CMakeFiles/grape-lite.dir
+/home/yaof/geograph/datu/build/CMakeFiles/cpplint.dir
+/home/yaof/geograph/datu/build/CMakeFiles/tornado_pagerank.dir
+/home/yaof/geograph/datu/build/CMakeFiles/tornado_php.dir
+/home/yaof/geograph/datu/build/CMakeFiles/d2ud.dir
+/home/yaof/geograph/datu/build/CMakeFiles/edit_cache.dir
+/home/yaof/geograph/datu/build/CMakeFiles/gen_updated.dir
