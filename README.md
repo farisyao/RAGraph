@@ -69,7 +69,7 @@ As examples, we provide four applications to build RAGraph, they are PageRank (c
 
 To run a specific analytical application, users may use command like this:
 ```bash
- run PageRank with 4 data centers.
+# run PageRank with 4 data centers.
  mpirun -np 4 -hostfile ./hostfile  ../build/ingress -application pagerank -efile ./Dataset/google.e -directed=1 -cilk=true -termcheck_threshold 0.001 -app_concurrency 8 -portion=1  -serialization_prefix ./ser -out_prefix ./result/sum_pagerank
 
 # see more flags info.
